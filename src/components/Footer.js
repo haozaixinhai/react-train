@@ -4,7 +4,7 @@ class Footer extends React.Component {
   render() {
     return (
       <div style={{ lineHeight: "80px", textAlign: "center" }}>
-        版权所有&copy;ZzZzZz
+        版权所有&copy;wangjinsheng
       </div>
     );
   }

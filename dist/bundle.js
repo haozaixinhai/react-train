@@ -35510,7 +35510,7 @@ function (_React$Component) {
           lineHeight: "80px",
           textAlign: "center"
         }
-      }, "\u7248\u6743\u6240\u6709\xA9ZzZzZz");
+      }, "\u7248\u6743\u6240\u6709\xA9wangjinsheng");
     }
   }]);
 
